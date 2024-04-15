@@ -7,7 +7,9 @@ Deck availaible at - https://github.com/ayush-agarwal-0502/Package-Optimization-
 
 ## Background 
 
-This deck was made during CDP (Career Development Program) , Design Thinking workshop held by Delivroo . The whole process from start to end was done in a span of 2 hours only !! Made a team of 10 people (mix of 2nd 3rd yearites and me 4th yearite),I got to manage the process, first we ideated and brainstormed solutions individually first, then presented our ideas to the team, I made notes of everyone's ideas and presented it after everyone was done, then we decided to solve the 2 important problems out of 5, then we spent last 1 hour making this deck. 
+This deck was made during CDP (Career Development Program) , Design Thinking workshop held by Delivroo . The whole process from start to end was done in a span of __2 hours only__ !! 
+
+Made a team of 10 people (mix of 2nd 3rd yearites and me 4th yearite),I got to manage the process, first we ideated and brainstormed solutions individually first, then presented our ideas to the team, I made notes of everyone's ideas and presented it after everyone was done, then we decided to solve the 2 important problems out of 5, then we spent last 1 hour making this deck. 
 
 __Skills__ - Design thinking, Leadership, Communication, Deck Making, Product Thinking
 
